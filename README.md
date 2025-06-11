@@ -22,6 +22,18 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+
+## 📱 Connect with Me
+
+Feel free to reach out or follow me on my social platforms:
+
+- 💬 [WhatsApp](https://wa.me/201149984094)
+- 👤 [Facebook](https://www.facebook.com/share/1Aomhe21aD/)
+- 📸 [Instagram](https://www.instagram.com/ahmed_sameh_8.4?igsh=MTFwYWZtdnBzbHdtbw==)
+- 💼 [LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ahmed-sameh-80843b326)
+- 🐦 [Twitter (X)](https://x.com/AhmedSa06379496?t=DkMG1UORYS9E6Spp84CdKQ&s=08)
+- 📬 [Telegram](https://t.me/Ahmedsameh001)
+
 ---
 
 ## 🚀 Simple Code Example
