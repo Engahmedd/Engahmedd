@@ -1,13 +1,13 @@
-
+<h1> hi i'm ahmed sameh </h1>
 ---
+## 👨‍💻 About Me
 
-## 👨‍💻 عني
+- 👋 My name is **Ahmed Sameh**
+- 💻 I’m a **Web Developer**
+- 🌐 I have experience with **HTML**, **CSS**, and **C++**
+- 🚀 I’m planning to start learning **JavaScript** soon
+- 🧠 I'm passionate about programming and continuous development
 
-- 👋 اسمي **أحمد سامح**
-- 💻 أنا مبرمج **مواقع ويب**
-- 🌐 عندي خبرة في **HTML**, **CSS**, و **C++**
-- 🚀 قريبًا هبدأ أتعلم **JavaScript**
-- 🧠 بحب البرمجة والتطوير المستمر في المجال
 
 ---
 
