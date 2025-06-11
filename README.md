@@ -18,15 +18,11 @@ Whether it's building a simple form or exploring new technologies, I enjoy every
 🤝 Let's build something great together!
 
 
----
-## 👨‍💻 About Me
 
-- 👋 My name is **Ahmed Sameh**
-- 💻 I’m a **Web Developer**
-- 🌐 I have experience with **HTML**, **CSS**, and **C++**
+<h1>- 🌐 I have experience with **HTML**, **CSS**, and **C++**
 - 🚀 I’m planning to start learning **JavaScript** soon
 - 🧠 I'm passionate about programming and continuous development
-
+</h1>
 
 ---
 
