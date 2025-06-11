@@ -1,5 +1,8 @@
 <h1> hi i'm ahmed sameh </h1>
 
+<h3>- 🌐 I have experience with **HTML**, **CSS**, and **C++** <br>
+</h3>
+
 Hi there! I'm Ahmed Sameh, a passionate and dedicated Web Developer with a strong foundation in HTML, CSS, and C++. I'm currently diving into the world of JavaScript to expand my skills and build more dynamic, interactive websites.
 
 I love writing clean, well-structured code and turning creative ideas into fully functional web experiences. I'm always curious, always learning, and always improving.
@@ -19,10 +22,6 @@ Whether it's building a simple form or exploring new technologies, I enjoy every
 
 
 
-<h4>- 🌐 I have experience with **HTML**, **CSS**, and **C++** <br>
-- 🚀 I’m planning to start learning **JavaScript** soon <br>
-- 🧠 I'm passionate about programming and continuous development <br>
-</h4>
 
 ---
 
