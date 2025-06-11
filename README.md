@@ -19,9 +19,9 @@ Whether it's building a simple form or exploring new technologies, I enjoy every
 
 
 
-<h4>- 🌐 I have experience with **HTML**, **CSS**, and **C++**
-- 🚀 I’m planning to start learning **JavaScript** soon
-- 🧠 I'm passionate about programming and continuous development
+<h4>- 🌐 I have experience with **HTML**, **CSS**, and **C++** <br>
+- 🚀 I’m planning to start learning **JavaScript** soon <br>
+- 🧠 I'm passionate about programming and continuous development <br>
 </h4>
 
 ---
