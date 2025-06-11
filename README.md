@@ -1,5 +1,3 @@
-<h1> hi i'm ahmed sameh </h1>
-
 <h3>- 🌐 I have experience with **HTML**, **CSS**, and **C++** <br>
 </h3>
 
