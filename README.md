@@ -19,10 +19,10 @@ Whether it's building a simple form or exploring new technologies, I enjoy every
 
 
 
-<h1>- 🌐 I have experience with **HTML**, **CSS**, and **C++**
+<h4>- 🌐 I have experience with **HTML**, **CSS**, and **C++**
 - 🚀 I’m planning to start learning **JavaScript** soon
 - 🧠 I'm passionate about programming and continuous development
-</h1>
+</h4>
 
 ---
 
